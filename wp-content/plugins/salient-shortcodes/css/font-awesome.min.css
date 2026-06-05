@@ -1,11 +1,11 @@
 
 @font-face{
 	font-family:'FontAwesome';
-	src:url('https://isavula.github.com/wp-content/plugins/salient-shortcodes/css/fonts/fontawesome-webfont.eot?v=4.2');
-	src:url('https://isavula.github.com/wp-content/plugins/salient-shortcodes/css/fonts/fontawesome-webfont.eot#iefix&v=4.2') format('embedded-opentype'),
-		url('https://isavula.github.com/wp-content/plugins/salient-shortcodes/css/fonts/fontawesome-webfont.svg#fontawesomeregular?v=4.2') format('svg'),
-	    url('https://isavula.github.com/wp-content/plugins/salient-shortcodes/css/fonts/fontawesome-webfont.woff?v=4.2') format('woff'),
-	    url('https://isavula.github.com/wp-content/plugins/salient-shortcodes/css/fonts/fontawesome-webfont.ttf?v=4.2') format('truetype');
+	src:url('https://isavula.github.io/wp-content/plugins/salient-shortcodes/css/fonts/fontawesome-webfont.eot?v=4.2');
+	src:url('https://isavula.github.io/wp-content/plugins/salient-shortcodes/css/fonts/fontawesome-webfont.eot#iefix&v=4.2') format('embedded-opentype'),
+		url('https://isavula.github.io/wp-content/plugins/salient-shortcodes/css/fonts/fontawesome-webfont.svg#fontawesomeregular?v=4.2') format('svg'),
+	    url('https://isavula.github.io/wp-content/plugins/salient-shortcodes/css/fonts/fontawesome-webfont.woff?v=4.2') format('woff'),
+	    url('https://isavula.github.io/wp-content/plugins/salient-shortcodes/css/fonts/fontawesome-webfont.ttf?v=4.2') format('truetype');
 	font-weight:normal;
 	font-style:normal;
 }

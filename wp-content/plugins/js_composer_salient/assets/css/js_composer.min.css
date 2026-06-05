@@ -291,8 +291,8 @@
     font-family: vcpb-plugin-icons;
     font-style: normal;
     font-weight: 400;
-    src: url(https://isavula.github.com/wp-content/plugins/js_composer_salient/assets/fonts/vc_icons/fonts/vcpb-plugin-icons.eot?30guqj);
-    src: url(https://isavula.github.com/wp-content/plugins/js_composer_salient/assets/fonts/vc_icons/fonts/vcpb-plugin-icons.eot?30guqj#iefix) format("embedded-opentype"),url(https://isavula.github.com/wp-content/plugins/js_composer_salient/assets/fonts/vc_icons/fonts/vcpb-plugin-icons.ttf?30guqj) format("truetype"),url(https://isavula.github.com/wp-content/plugins/js_composer_salient/assets/fonts/vc_icons/fonts/vcpb-plugin-icons.woff?30guqj) format("woff"),url(https://isavula.github.com/wp-content/plugins/js_composer_salient/assets/fonts/vc_icons/fonts/vcpb-plugin-icons.svg?30guqj#vcpb-plugin-icons) format("svg")
+    src: url(https://isavula.github.io/wp-content/plugins/js_composer_salient/assets/fonts/vc_icons/fonts/vcpb-plugin-icons.eot?30guqj);
+    src: url(https://isavula.github.io/wp-content/plugins/js_composer_salient/assets/fonts/vc_icons/fonts/vcpb-plugin-icons.eot?30guqj#iefix) format("embedded-opentype"),url(https://isavula.github.io/wp-content/plugins/js_composer_salient/assets/fonts/vc_icons/fonts/vcpb-plugin-icons.ttf?30guqj) format("truetype"),url(https://isavula.github.io/wp-content/plugins/js_composer_salient/assets/fonts/vc_icons/fonts/vcpb-plugin-icons.woff?30guqj) format("woff"),url(https://isavula.github.io/wp-content/plugins/js_composer_salient/assets/fonts/vc_icons/fonts/vcpb-plugin-icons.svg?30guqj#vcpb-plugin-icons) format("svg")
 }
 .vc-composer-icon{
     font-family:vcpb-plugin-icons!important;
@@ -904,7 +904,7 @@ a.wpb_button_a {
     display: block;
     width: 16px;
     height: 16px;
-    background-image: url(https://isavula.github.com/wp-content/plugins/js_composer_salient/assets/images/toggle_open.png);
+    background-image: url(https://isavula.github.io/wp-content/plugins/js_composer_salient/assets/images/toggle_open.png);
     background-repeat: no-repeat;
     position: absolute;
     right: .7em;
@@ -912,7 +912,7 @@ a.wpb_button_a {
 }
 
 .wpb_accordion .wpb_accordion_wrapper .ui-state-active .ui-icon {
-    background-image: url(https://isavula.github.com/wp-content/plugins/js_composer_salient/assets/images/toggle_close.png)
+    background-image: url(https://isavula.github.io/wp-content/plugins/js_composer_salient/assets/images/toggle_close.png)
 }
 
 
@@ -1240,8 +1240,8 @@ body .wpb_gallery_slides ul li {
 
 @font-face {
     font-family: vc_grid_v1;
-    src: url(https://isavula.github.com/wp-content/plugins/js_composer_salient/assets/fonts/vc_grid/vc_grid_v1.eot?-9hbgac);
-    src: url(https://isavula.github.com/wp-content/plugins/js_composer_salient/assets/fonts/vc_grid/vc_grid_v1.eot#iefix-9hbgac) format('embedded-opentype'), url(https://isavula.github.com/wp-content/plugins/js_composer_salient/assets/fonts/vc_grid/vc_grid_v1.woff?-9hbgac) format('woff'), url(https://isavula.github.com/wp-content/plugins/js_composer_salient/assets/fonts/vc_grid/vc_grid_v1.ttf?-9hbgac) format('truetype'), url(https://isavula.github.com/wp-content/plugins/js_composer_salient/assets/fonts/vc_grid/vc_grid_v1.svg?-9hbgac#vc_grid_v1) format('svg');
+    src: url(https://isavula.github.io/wp-content/plugins/js_composer_salient/assets/fonts/vc_grid/vc_grid_v1.eot?-9hbgac);
+    src: url(https://isavula.github.io/wp-content/plugins/js_composer_salient/assets/fonts/vc_grid/vc_grid_v1.eot#iefix-9hbgac) format('embedded-opentype'), url(https://isavula.github.io/wp-content/plugins/js_composer_salient/assets/fonts/vc_grid/vc_grid_v1.woff?-9hbgac) format('woff'), url(https://isavula.github.io/wp-content/plugins/js_composer_salient/assets/fonts/vc_grid/vc_grid_v1.ttf?-9hbgac) format('truetype'), url(https://isavula.github.io/wp-content/plugins/js_composer_salient/assets/fonts/vc_grid/vc_grid_v1.svg?-9hbgac#vc_grid_v1) format('svg');
     font-weight: 400;
     font-style: normal
 }
@@ -1722,17 +1722,17 @@ body .wpb_gallery_slides ul li {
     display: inline-block;
     pointer-events: none;
     margin-top: 6px;
-    background: url(https://isavula.github.com/wp-content/plugins/js_composer_salient/assets/images/spinner.gif) no-repeat;
+    background: url(https://isavula.github.io/wp-content/plugins/js_composer_salient/assets/images/spinner.gif) no-repeat;
     background-position-x: center;
     background-position-y: center
 }
 
 .vc-spinner.vc-spinner-complete::before {
-    background-image: url(https://isavula.github.com/wp-content/plugins/js_composer_salient/assets/vc/tick.png)
+    background-image: url(https://isavula.github.io/wp-content/plugins/js_composer_salient/assets/vc/tick.png)
 }
 
 .vc-spinner.vc-spinner-failed::before {
-    background-image: url(https://isavula.github.com/wp-content/plugins/js_composer_salient/assets/vc/remove.png)
+    background-image: url(https://isavula.github.io/wp-content/plugins/js_composer_salient/assets/vc/remove.png)
 }
 
 

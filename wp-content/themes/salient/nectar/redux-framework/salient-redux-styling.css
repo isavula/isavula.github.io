@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'salient-admin-icon';
-  src:  url('https://isavula.github.com/wp-content/themes/salient/nectar/redux-framework/fonts/salient-admin-panel-icons.eot?w2hcy7');
-  src:  url('https://isavula.github.com/wp-content/themes/salient/nectar/redux-framework/fonts/salient-admin-panel-icons.eot?w2hcy7#iefix') format('embedded-opentype'),
-    url('https://isavula.github.com/wp-content/themes/salient/nectar/redux-framework/fonts/salient-admin-panel-icons.ttf?w2hcy7') format('truetype'),
-    url('https://isavula.github.com/wp-content/themes/salient/nectar/redux-framework/fonts/salient-admin-panel-icons.woff?w2hcy7') format('woff'),
-    url('https://isavula.github.com/wp-content/themes/salient/nectar/redux-framework/fonts/salient-admin-panel-icons.svg?w2hcy7#salient-admin-icon') format('svg');
+  src:  url('https://isavula.github.io/wp-content/themes/salient/nectar/redux-framework/fonts/salient-admin-panel-icons.eot?w2hcy7');
+  src:  url('https://isavula.github.io/wp-content/themes/salient/nectar/redux-framework/fonts/salient-admin-panel-icons.eot?w2hcy7#iefix') format('embedded-opentype'),
+    url('https://isavula.github.io/wp-content/themes/salient/nectar/redux-framework/fonts/salient-admin-panel-icons.ttf?w2hcy7') format('truetype'),
+    url('https://isavula.github.io/wp-content/themes/salient/nectar/redux-framework/fonts/salient-admin-panel-icons.woff?w2hcy7') format('woff'),
+    url('https://isavula.github.io/wp-content/themes/salient/nectar/redux-framework/fonts/salient-admin-panel-icons.svg?w2hcy7#salient-admin-icon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -607,10 +607,10 @@ body .redux-container .redux-main .button.button-primary {
 	}
 
 	#salient_redux-single_portfolio_project_layout .redux-image-select .single_portfolio_project_layout_1:after {
-		background-image: url('https://isavula.github.com/wp-content/themes/salient/nectar/redux-framework/ReduxCore/assets/img/project-default-hover.jpg');
+		background-image: url('https://isavula.github.io/wp-content/themes/salient/nectar/redux-framework/ReduxCore/assets/img/project-default-hover.jpg');
 	}
 	#salient_redux-single_portfolio_project_layout .redux-image-select .single_portfolio_project_layout_2:after {
-		background-image: url('https://isavula.github.com/wp-content/themes/salient/nectar/redux-framework/ReduxCore/assets/img/project-page-builder-hover.jpg');
+		background-image: url('https://isavula.github.io/wp-content/themes/salient/nectar/redux-framework/ReduxCore/assets/img/project-page-builder-hover.jpg');
 	}
 
 	#salient_redux-single_portfolio_project_layout .redux-image-select .single_portfolio_project_layout_1:hover:after,
@@ -693,7 +693,7 @@ body .redux-container .redux-main .button.button-primary {
 
 
 	.redux-main > [data-rel="12"] .redux-container-slider .redux-slider-input {
-		background-image: url('https://isavula.github.com/wp-content/themes/salient/img/icons/percent.png');
+		background-image: url('https://isavula.github.io/wp-content/themes/salient/img/icons/percent.png');
 		background-size: 14px;
 		background-position: right 5px center;
 		background-repeat: no-repeat;
